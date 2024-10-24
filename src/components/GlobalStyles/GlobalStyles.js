@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -23,6 +23,7 @@ time, mark, audio, video {
 	border: 0;
   font-size: 100%;
 	vertical-align: baseline;
+  /* border: solid deeppink; */
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
